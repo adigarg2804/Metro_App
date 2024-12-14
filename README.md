@@ -25,3 +25,10 @@
   - **blueline.txt, yellowline.txt, redline.txt, greenline.txt, violetline.txt, orangeline.txt**: Contains connections for respective metro lines.
   - **tourplace.txt**: Contains tourist places and their nearest metro stations.
 ---
+## **To run application**
+To run execute following commands in terminal
+
+1. g++ metro.cpp
+2. ./a.out
+3. Then do as menu directs.
+
